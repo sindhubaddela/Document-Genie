@@ -1,39 +1,13 @@
 # Document-Genie
 Intelligent Document Processing Suite - Analyze, Summarize, and Transform
-
-
-Of course! Crafting a README that stands out is crucial for making a great first impression. Based on the provided code, here is a comprehensive, professional, and "cool" README file designed to catch the eye of any recruiter or hiring manager. It explains the project's features, architecture, and technical depth in a clear and impressive way.
-
-Just copy and paste the following content into your README.md file.
-
-Document Genie 🧞‍♂️
-
-![alt text](https://img.shields.io/badge/License-MIT-blue.svg)
-
-
 ![alt text](https://img.shields.io/badge/Python-3.9+-brightgreen.svg)
-
-
 ![alt text](https://img.shields.io/badge/Framework-Streamlit-ff69b4.svg)
-
-
 ![alt text](https://img.shields.io/badge/LLM-Groq%20Llama%203-8A2BE2.svg)
-
-
 ![alt text](https://img.shields.io/badge/Embeddings-Hugging%20Face-yellow.svg)
 
 An intelligent document processing suite that transforms your static documents into dynamic, interactive assets. Analyze, summarize, chat with, and even create podcasts from your files, all powered by a cutting-edge RAG pipeline and the speed of Llama 3 on Groq.
 
 <br>
-
-<!-- **RECOMMENDATION:** Create a GIF of your app in action and place it here. It's the best way to showcase your project! -->
-
-<!-- You can use a tool like Giphy Capture or Kap to record your screen. -->
-
-
-![alt text](https://user-images.githubusercontent.com/10986729/183113333-64353a83-c23f-4229-a764-f25a0b7ec17c.gif)
-
-(Replace this placeholder with a GIF of your running application)
 
 ✨ Key Features
 
